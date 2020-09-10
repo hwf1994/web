@@ -1,0 +1,18 @@
+document.writeln('');
+document.writeln('<header class="top_tip">');
+document.writeln('    <div class="w flex">');
+document.writeln('        <a><img src="common/img/wechat.png"></a>');
+document.writeln('        <a><img src="common/img/phone.png">010-2345324</a>');
+document.writeln('    </div>');
+document.writeln('</header>');
+document.writeln('<nav class="w flex">');
+document.writeln('   <a class="logo">');
+document.writeln('        <img src="common/img/logo.jpg">');
+document.writeln('    </a>');
+document.writeln('    <ul class="flex">');
+document.writeln('       <li><a href="index.html">首页</a></li>');
+document.writeln('        <li><a>课程分类</a></li>');
+document.writeln('        <li><a>教育特色</a></li>');
+document.writeln('        <li><a href="article.html">企业展示</a></li>');
+document.writeln('    </ul>');
+document.writeln('</nav>');
